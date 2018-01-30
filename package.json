@@ -1,0 +1,27 @@
+{
+  "name": "auto-brick",
+  "version": "1.0.0",
+  "description": "搬砖神器",
+  "main": "index.js",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F-E-OS/auto-brick.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "全宇宙最专业的EOS技术分析程序员",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/F-E-OS/auto-brick/issues"
+  },
+  "homepage": "https://github.com/F-E-OS/auto-brick#readme",
+  "dependencies": {
+    "es7-sleep": "^1.0.0",
+    "puppeteer": "^1.0.0",
+    "r2": "^2.0.0"
+  }
+}
